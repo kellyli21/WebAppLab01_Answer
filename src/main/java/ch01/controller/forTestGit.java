@@ -9,11 +9,10 @@ public class forTestGit {
 		
 	return "GitHub 1";
 	
-	
 	}
 	
-public String toShopPage() {
-	return "GitHub Test2";
-}
+	public String toOrder() {
+		return "GitHub 3";
+	}
 	
 }
