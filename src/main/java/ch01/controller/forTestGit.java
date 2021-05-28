@@ -11,4 +11,8 @@ public class forTestGit {
 	
 	}
 	
+	public String toOrder() {
+		return "GitHub 3";
+	}
+	
 }
