@@ -14,5 +14,8 @@
 <a href='ch01/index.jsp'>會員管理(Hibernate+Spring版)</a>
 </div>
 
+
+<div>Test GitHub</div>
+
 </body>
 </html>
