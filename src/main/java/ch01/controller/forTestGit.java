@@ -9,6 +9,11 @@ public class forTestGit {
 		
 	return "GitHub 1";
 	
+	
 	}
+	
+public String toShopPage() {
+	return "GitHub Test2";
+}
 	
 }
